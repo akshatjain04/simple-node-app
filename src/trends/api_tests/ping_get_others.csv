@@ -1,0 +1,11 @@
+statusCode
+200
+400
+200
+JWT_ERR
+500
+403
+200
+200
+malformed!payload
+invalid/token
